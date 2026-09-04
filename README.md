@@ -36,6 +36,26 @@ The analysis was performed using **Microsoft Excel**, with supporting pivot tabl
 
 ---
 
+## 📊 Dashboard Preview
+
+### Annual Sales Dashboard
+
+![Vrinda Store Annual Report](screenshots/dashboard.png)
+
+### Monthly Sales Analysis
+
+![Monthly Sales Analysis](screenshots/monthly-sales.png)
+
+### Gender Analysis
+
+![Women vs Men Analysis](screenshots/gender-analysis.png)
+
+### Top 5 States by Sales
+
+![Top 5 States](screenshots/top-5-states.png)
+
+---
+
 ## 📂 Dataset
 
 The main dataset is stored in the `Vrinda Store` worksheet.
