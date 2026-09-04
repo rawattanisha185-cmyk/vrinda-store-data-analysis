@@ -296,5 +296,3 @@ This project was created as part of my **Data Analytics / Excel portfolio** to d
 ---
 
 ⭐ If you found this project useful, consider giving the repository a star!
-#   v r i n d a - s t o r e - d a t a - a n a l y s i s  
- 
